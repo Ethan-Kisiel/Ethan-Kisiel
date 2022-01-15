@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, C++, Java (in that order)
 - 🌱 I’m currently learning Software Development, C++, Java, Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me {gmail: ethan.a.kisiel@gmail.com}
 
 <!---
 ethan-kisiel/ethan-kisiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
