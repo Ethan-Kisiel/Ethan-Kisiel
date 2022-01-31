@@ -1,3 +1,6 @@
+carpe diem - hodie
+
+
 - 👋 Hi, I’m @ethan-kisiel
 - 👀 I’m interested in Python, C++, Java (in that order)
 - 🌱 I’m currently learning Software Development, C++, Java, Python
